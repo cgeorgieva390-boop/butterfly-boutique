@@ -32,6 +32,7 @@ window.BUTTERFLY_PRODUCTS = [
   image: 'afnan-historic-olmeda.png',
   description: 'Луксозен арабски парфюм Afnan Historic Olmeda с елегантен и изискан аромат. Подходящ за специални поводи и ежедневна употреба.'
 }
+ 
 ];
 
 
