@@ -21,16 +21,7 @@ window.BUTTERFLY_PRODUCTS = [
   image: 'odyssey-candee.png.jpg',
   description: 'Дамски Eau de Parfum 100 ml със сладък плодов аромат. Връхни нотки: ягода, праскова, малина, бергамот и гераниум. Сърдечни нотки: карамел, жасмин и маракуя. Базови нотки: амбра, мускус и пачули. Дълготраен ароматен шлейф. Подходящ за дневна и вечерна употреба.'
 }
-
-,
-{
-  id: 'afnan-historic-olmeda-100',
-  name: 'Afnan Historic Olmeda Extrait de Parfum 100 мл',
-  category: 'men',
-  price: 30,
- image: 'afnan-historic-olmeda.png',
-  description: 'Луксозен арабски парфюм Afnan Historic Olmeda с елегантен и изискан аромат. Подходящ за специални поводи и ежедневна употреба.'
-}
+ 
 ];
 
 
