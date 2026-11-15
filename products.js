@@ -28,7 +28,7 @@ window.BUTTERFLY_PRODUCTS = [
   name: 'Afnan Historic Olmeda Extrait de Parfum 100 мл',
   category: 'men',
   price: 30,
-  image: 'afnan-historic-olmeda.png',
+  image: 'afnan-historic-olmeda.png.png',
   description: 'Луксозен арабски парфюм Afnan Historic Olmeda с елегантен и изискан аромат. Подходящ за специални поводи и ежедневна употреба.'
 }
 ];
